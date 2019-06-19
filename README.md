@@ -21,7 +21,9 @@ npm run build --report
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
 ## Starting the Environment
+``` bash
 1. C:\Program Files\MongoDB\Server\4.0\bin>mongod --dbpath C:\Users\kimj\data-scorecard\db
 2. C:\Users\kimj\source\test-projects\graphql-express-node-api>npm start
 3. C:\Users\kimj\source\test-projects\scorecard-refactor>npm start
 4. C:\Users\kimj\source\repos\node-api\src>node index.js
+```
